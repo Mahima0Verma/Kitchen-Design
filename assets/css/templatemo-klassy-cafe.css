@@ -85,12 +85,12 @@ body {
 }
 
 ::selection {
-  background: #fb5849;
+  background: #9e9a9a;
   color: #fff;
 }
 
 ::-moz-selection {
-  background: #fb5849;
+  background: #9e9a9a;
   color: #fff;
 }
 
@@ -112,7 +112,7 @@ body {
 
 .main-white-button a {
   font-size: 13px;
-  color: #fb5849;
+  color: #9e9a9a;
   background-color: #fff;
   padding: 12px 25px;
   display: inline-block;
@@ -139,7 +139,7 @@ body {
 .section-heading h6 {
   position: relative;
   font-size: 15px;
-  color: #fb5849;
+  color: #9e9a9a;
   font-weight: 500;
   letter-spacing: 2px;
   text-transform: uppercase;
@@ -153,7 +153,7 @@ body {
   position: absolute;
   left: 0;
   top: 8px;
-  background-color: #fb5849;
+  background-color: #9e9a9a;
 }
 
 .section-heading h2 {
@@ -192,7 +192,7 @@ header
 }
 
 .background-header .nav li a.active {
-  color: #fb5849!important;
+  color: #9e9a9a!important;
 }
 
 .header-area {
@@ -1171,7 +1171,7 @@ reservation
 }
 
 #reservation {
- 
+
   padding: 120px 0px;
 
   background-position: center center;
@@ -1366,7 +1366,7 @@ offers
   margin: 0 auto 15px auto;
 }
 #offers #tabs ul .ui-tabs-active a {
-  color: #fb5849;
+  color: #9e9a9a;
   position: relative;
 }
 #offers #tabs ul .ui-tabs-active span {
@@ -1416,7 +1416,7 @@ offers
   right: 0;
   width: 70px;
   height: 70px;
-  background-color: #fb5849;
+  background-color: #9e9a9a;
   display: inline-block;
   text-align: center;
   line-height: 70px;
@@ -1436,7 +1436,7 @@ footer
 footer {
   margin-top: 60px;
   padding: 50px 0px;
-  background-color: #fb5849;
+  background-color: #9e9a9a;
 }
 
 footer .left-text-content p {
@@ -1481,7 +1481,7 @@ footer .right-text-content ul li a {
   font-size: 20px;
   background-color: #fff;
   border-radius: 50%;
-  color: #fb5849;
+  color: #9e9a9a;
   -webkit-transition: all 0.5s ease 0s;
   -moz-transition: all 0.5s ease 0s;
   -o-transition: all 0.5s ease 0s;
@@ -1558,7 +1558,7 @@ responsive
 
 #preloader {
   overflow: hidden;
-  background-color: #fb5849;
+  background-color: #9e9a9a;
   left: 0;
   right: 0;
   top: 0;
